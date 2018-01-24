@@ -1,0 +1,15 @@
+{
+  "name": "test-google-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hai Ta",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^25.0.0"
+  }
+}
